@@ -8,6 +8,6 @@ def fizzbuzz(int)
 #    print "Buzz"
 #  elsif int % 15 == 0
 #    print "FizzBuzz"
-  else
+  #else
     
 end
